@@ -1,0 +1,737 @@
+[
+  {
+    "id": "001", "title": "데미안", "originalTitle": "Demian", "author": "헤르만 헤세", "country": "독일", "era": "근대", "category": "세계문학", "year": 1919,
+    "tags": { "elements": ["wood", "water"], "ten_gods": ["편인", "식신"], "mood": ["성장", "내면", "자기탐색", "각성"] },
+    "difficulty": "중간", "energy": "차분함", "atmosphere": ["심오함", "성장"],
+    "description": "싱클레어의 내면적 여정을 통해 진정한 자아를 찾아가는 성장소설.",
+    "literaryInterpretation": "두 세계 사이에서 흔들리는 당신에게, 이 책은 그 갈등이 더 깊은 자아로 가는 문임을 보여줍니다."
+  },
+  {
+    "id": "002", "title": "싯다르타", "originalTitle": "Siddhartha", "author": "헤르만 헤세", "country": "독일", "era": "근대", "category": "세계문학", "year": 1922,
+    "tags": { "elements": ["water", "wood"], "ten_gods": ["정인", "편인"], "mood": ["깨달음", "구도", "철학", "평온"] },
+    "difficulty": "쉬움", "energy": "고요함", "atmosphere": ["명상적", "철학적"],
+    "description": "구도자의 삶을 통해 깨달음과 자유를 탐구하는 철학소설.",
+    "literaryInterpretation": "정답을 찾는 것이 아니라 길을 걷는 것이 삶임을 이 책은 조용히 알려줍니다."
+  },
+  {
+    "id": "003", "title": "황야의 이리", "originalTitle": "Der Steppenwolf", "author": "헤르만 헤세", "country": "독일", "era": "근대", "category": "세계문학", "year": 1927,
+    "tags": { "elements": ["water", "metal"], "ten_gods": ["편인", "상관"], "mood": ["고독", "정체성", "방황", "이중성"] },
+    "difficulty": "어려움", "energy": "강렬함", "atmosphere": ["실존적", "분열적"],
+    "description": "시민성과 야성 사이에서 분열되는 한 중년 남성의 자아 탐구.",
+    "literaryInterpretation": "당신 안의 여러 자아가 충돌할 때, 이 책은 그 분열이 오히려 온전함의 증거임을 말합니다."
+  },
+  {
+    "id": "004", "title": "나르치스와 골드문트", "originalTitle": "Narziss und Goldmund", "author": "헤르만 헤세", "country": "독일", "era": "근대", "category": "세계문학", "year": 1930,
+    "tags": { "elements": ["wood", "fire"], "ten_gods": ["식신", "편인"], "mood": ["예술", "삶의의미", "균형", "우정"] },
+    "difficulty": "중간", "energy": "따뜻함", "atmosphere": ["서정적", "철학적"],
+    "description": "이성과 감성, 정신과 육체의 두 삶을 통해 인간 존재의 의미를 탐구.",
+    "literaryInterpretation": "길을 떠나는 자와 머무는 자, 당신은 어느 쪽인지 이 책이 물어봅니다."
+  },
+  {
+    "id": "005", "title": "수레바퀴 아래서", "originalTitle": "Unterm Rad", "author": "헤르만 헤세", "country": "독일", "era": "근대", "category": "세계문학", "year": 1906,
+    "tags": { "elements": ["wood", "fire"], "ten_gods": ["비견", "편관"], "mood": ["억압", "청춘", "상실", "교육"] },
+    "difficulty": "쉬움", "energy": "슬픔", "atmosphere": ["비극적", "서정적"],
+    "description": "재능 있는 소년이 사회의 기대에 짓눌려 스러져가는 이야기.",
+    "literaryInterpretation": "시스템이 아닌 당신 자신의 리듬으로 살아야 함을, 이 책은 비극으로 증명합니다."
+  },
+  {
+    "id": "006", "title": "변신", "originalTitle": "Die Verwandlung", "author": "프란츠 카프카", "country": "독일", "era": "근대", "category": "세계문학", "year": 1915,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["편관", "상관"], "mood": ["소외", "부조리", "불안", "가족"] },
+    "difficulty": "중간", "energy": "서늘함", "atmosphere": ["부조리", "소외"],
+    "description": "어느 날 벌레로 변한 남자와 그 가족의 이야기.",
+    "literaryInterpretation": "당신이 느끼는 소외와 무력감이 결코 혼자만의 것이 아님을 이 책은 말합니다."
+  },
+  {
+    "id": "007", "title": "심판", "originalTitle": "Der Process", "author": "프란츠 카프카", "country": "독일", "era": "근대", "category": "세계문학", "year": 1925,
+    "tags": { "elements": ["metal", "earth"], "ten_gods": ["편관", "정관"], "mood": ["권력", "부조리", "체계", "불안"] },
+    "difficulty": "어려움", "energy": "압박감", "atmosphere": ["미로같은", "부조리"],
+    "description": "이유도 모른 채 기소된 남자의 이야기.",
+    "literaryInterpretation": "삶이 부당하게 느껴질 때, 이 책은 그 부당함 자체가 세계의 구조임을 직시하게 합니다."
+  },
+  {
+    "id": "008", "title": "젊은 베르테르의 슬픔", "originalTitle": "Die Leiden des jungen Werthers", "author": "요한 볼프강 폰 괴테", "country": "독일", "era": "고전", "category": "세계문학", "year": 1774,
+    "tags": { "elements": ["fire", "water"], "ten_gods": ["상관", "정재"], "mood": ["사랑", "감정", "비극", "낭만주의"] },
+    "difficulty": "쉬움", "energy": "강렬함", "atmosphere": ["낭만적", "비극적"],
+    "description": "이루어질 수 없는 사랑에 불타는 한 청년의 서한체 소설.",
+    "literaryInterpretation": "감정을 억누르지 않고 끝까지 살아내는 것이 어떤 의미인지 이 책이 보여줍니다."
+  },
+  {
+    "id": "009", "title": "죄와 벌", "originalTitle": "Prestuplenie i nakazanie", "author": "도스토옙스키", "country": "러시아", "era": "고전", "category": "세계문학", "year": 1866,
+    "tags": { "elements": ["fire", "water"], "ten_gods": ["편관", "편인"], "mood": ["죄", "구원", "내면", "심리"] },
+    "difficulty": "어려움", "energy": "강렬함", "atmosphere": ["심리적", "도덕적"],
+    "description": "살인을 저지른 대학생의 내면적 고통과 구원의 여정.",
+    "literaryInterpretation": "행동보다 그 행동이 남긴 내면의 흔적이 더 오래간다는 것을 이 책은 말합니다."
+  },
+  {
+    "id": "010", "title": "카라마조프가의 형제들", "originalTitle": "Bratya Karamazovy", "author": "도스토옙스키", "country": "러시아", "era": "고전", "category": "세계문학", "year": 1880,
+    "tags": { "elements": ["fire", "earth"], "ten_gods": ["정인", "정관"], "mood": ["신앙", "가족", "도덕", "인간본성"] },
+    "difficulty": "어려움", "energy": "장엄함", "atmosphere": ["철학적", "장대한"],
+    "description": "한 가족의 비극을 통해 신과 인간의 본성을 탐구하는 대작.",
+    "literaryInterpretation": "인간이 얼마나 위대하고 동시에 얼마나 초라할 수 있는지, 이 책은 그 전부를 보여줍니다."
+  },
+  {
+    "id": "011", "title": "백야", "originalTitle": "Belye nochi", "author": "도스토옙스키", "country": "러시아", "era": "고전", "category": "세계문학", "year": 1848,
+    "tags": { "elements": ["water", "fire"], "ten_gods": ["식신", "정재"], "mood": ["사랑", "몽상", "고독", "순수"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["낭만적", "몽환적"],
+    "description": "상트페테르부르크의 백야를 배경으로 한 짧고 아름다운 사랑 이야기.",
+    "literaryInterpretation": "꿈꾸는 자의 사랑이 얼마나 아름답고 얼마나 슬픈지를 이 책은 조용히 보여줍니다."
+  },
+  {
+    "id": "012", "title": "안나 카레니나", "originalTitle": "Anna Karenina", "author": "레프 톨스토이", "country": "러시아", "era": "고전", "category": "세계문학", "year": 1878,
+    "tags": { "elements": ["fire", "earth"], "ten_gods": ["정재", "편관"], "mood": ["사랑", "비극", "사회", "자유"] },
+    "difficulty": "어려움", "energy": "강렬함", "atmosphere": ["비극적", "사회적"],
+    "description": "사랑과 도덕 사이에서 파멸해가는 한 여성의 이야기.",
+    "literaryInterpretation": "사회가 허락하지 않는 감정을 끝까지 살았을 때 무엇이 남는지, 이 책이 묻습니다."
+  },
+  {
+    "id": "013", "title": "이반 일리치의 죽음", "originalTitle": "Smert Ivana Ilyicha", "author": "레프 톨스토이", "country": "러시아", "era": "고전", "category": "세계문학", "year": 1886,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["정관", "편인"], "mood": ["죽음", "삶의의미", "성찰", "후회"] },
+    "difficulty": "중간", "energy": "서늘함", "atmosphere": ["실존적", "명상적"],
+    "description": "삶의 의미를 죽음 앞에서야 비로소 깨닫는 한 남자의 이야기.",
+    "literaryInterpretation": "지금 살고 있는 삶이 진짜 삶인지 묻고 싶을 때, 이 책이 그 질문에 답합니다."
+  },
+  {
+    "id": "014", "title": "이방인", "originalTitle": "L'Étranger", "author": "알베르 카뮈", "country": "프랑스", "era": "현대", "category": "세계문학", "year": 1942,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["상관", "편관"], "mood": ["부조리", "고독", "실존", "무감각"] },
+    "difficulty": "중간", "energy": "서늘함", "atmosphere": ["부조리", "실존적"],
+    "description": "감정 없이 살아가는 남자와 그를 둘러싼 부조리한 세계.",
+    "literaryInterpretation": "세상과 완전히 연결되지 못한다는 느낌이 들 때, 이 책은 그 감각의 이름을 알려줍니다."
+  },
+  {
+    "id": "015", "title": "페스트", "originalTitle": "La Peste", "author": "알베르 카뮈", "country": "프랑스", "era": "현대", "category": "세계문학", "year": 1947,
+    "tags": { "elements": ["earth", "fire"], "ten_gods": ["정관", "식신"], "mood": ["연대", "저항", "희망", "공동체"] },
+    "difficulty": "중간", "energy": "따뜻함", "atmosphere": ["철학적", "인간적"],
+    "description": "전염병이 덮친 도시에서 인간이 연대하고 저항하는 이야기.",
+    "literaryInterpretation": "재앙 속에서도 타인을 위해 남아 있는 사람들이 있다는 것을 이 책이 보여줍니다."
+  },
+  {
+    "id": "016", "title": "댈러웨이 부인", "originalTitle": "Mrs Dalloway", "author": "버지니아 울프", "country": "영국", "era": "현대", "category": "세계문학", "year": 1925,
+    "tags": { "elements": ["water", "fire"], "ten_gods": ["식신", "편인"], "mood": ["의식", "시간", "기억", "삶과죽음"] },
+    "difficulty": "어려움", "energy": "고요함", "atmosphere": ["의식의흐름", "서정적"],
+    "description": "한 여성의 파티 준비 하루 동안 펼쳐지는 내면의 시간.",
+    "literaryInterpretation": "평범한 하루가 사실 얼마나 많은 기억과 감정을 품고 있는지 이 책이 보여줍니다."
+  },
+  {
+    "id": "017", "title": "등대로", "originalTitle": "To the Lighthouse", "author": "버지니아 울프", "country": "영국", "era": "현대", "category": "세계문학", "year": 1927,
+    "tags": { "elements": ["water", "wood"], "ten_gods": ["편인", "정인"], "mood": ["시간", "예술", "관계", "상실"] },
+    "difficulty": "어려움", "energy": "고요함", "atmosphere": ["명상적", "서정적"],
+    "description": "등대를 향한 여정을 통해 시간과 상실, 예술의 의미를 탐구.",
+    "literaryInterpretation": "이루지 못한 것들도 기억 속에서는 영원할 수 있다는 것을 이 책이 가르쳐줍니다."
+  },
+  {
+    "id": "018", "title": "파도", "originalTitle": "The Waves", "author": "버지니아 울프", "country": "영국", "era": "현대", "category": "세계문학", "year": 1931,
+    "tags": { "elements": ["water", "water"], "ten_gods": ["편인", "비견"], "mood": ["의식", "존재", "자아", "서정"] },
+    "difficulty": "매우어려움", "energy": "몽환적", "atmosphere": ["실험적", "시적"],
+    "description": "여섯 인물의 독백으로 이루어진 순수한 의식의 음악.",
+    "literaryInterpretation": "언어가 의미보다 감각을 먼저 전달할 때 어떤 일이 생기는지 이 책이 보여줍니다."
+  },
+  {
+    "id": "019", "title": "백년의 고독", "originalTitle": "Cien años de soledad", "author": "가브리엘 가르시아 마르케스", "country": "콜롬비아", "era": "현대", "category": "세계문학", "year": 1967,
+    "tags": { "elements": ["wood", "fire"], "ten_gods": ["편인", "식신"], "mood": ["신화", "가족", "고독", "마술적현실"] },
+    "difficulty": "어려움", "energy": "풍요로움", "atmosphere": ["마술적", "장대한"],
+    "description": "부엔디아 가문의 백 년을 통해 인간의 고독과 역사를 그린 대서사시.",
+    "literaryInterpretation": "모든 것이 반복되는 것처럼 느껴질 때, 이 책은 그 순환 속에서도 각자의 삶이 유일하다고 말합니다."
+  },
+  {
+    "id": "020", "title": "콜레라 시대의 사랑", "originalTitle": "El amor en los tiempos del cólera", "author": "가브리엘 가르시아 마르케스", "country": "콜롬비아", "era": "현대", "category": "세계문학", "year": 1985,
+    "tags": { "elements": ["fire", "water"], "ten_gods": ["정재", "식신"], "mood": ["사랑", "기다림", "인내", "노년"] },
+    "difficulty": "중간", "energy": "따뜻함", "atmosphere": ["낭만적", "서정적"],
+    "description": "50년을 기다린 사랑이 마침내 이루어지는 이야기.",
+    "literaryInterpretation": "사랑이 젊음의 전유물이 아님을, 이 책은 아름다운 언어로 증명합니다."
+  },
+  {
+    "id": "021", "title": "오만과 편견", "originalTitle": "Pride and Prejudice", "author": "제인 오스틴", "country": "영국", "era": "고전", "category": "세계문학", "year": 1813,
+    "tags": { "elements": ["earth", "metal"], "ten_gods": ["정재", "정관"], "mood": ["사회", "결혼", "자존심", "관찰"] },
+    "difficulty": "중간", "energy": "생동감", "atmosphere": ["위트있는", "사회비판적"],
+    "description": "엘리자베스와 다아시의 오해와 성장을 통한 사랑 이야기.",
+    "literaryInterpretation": "관계에서 나의 편견이 얼마나 나를 제한하는지 이 책이 우아하게 꼬집습니다."
+  },
+  {
+    "id": "022", "title": "제인 에어", "originalTitle": "Jane Eyre", "author": "샬럿 브론테", "country": "영국", "era": "고전", "category": "세계문학", "year": 1847,
+    "tags": { "elements": ["fire", "wood"], "ten_gods": ["정관", "비견"], "mood": ["자립", "사랑", "정체성", "저항"] },
+    "difficulty": "중간", "energy": "강인함", "atmosphere": ["강렬한", "낭만적"],
+    "description": "가난하지만 당당한 한 여성의 사랑과 자아 찾기.",
+    "literaryInterpretation": "누군가가 나를 낮추려 할 때 어떻게 나를 지킬 것인지, 제인이 보여줍니다."
+  },
+  {
+    "id": "023", "title": "폭풍의 언덕", "originalTitle": "Wuthering Heights", "author": "에밀리 브론테", "country": "영국", "era": "고전", "category": "세계문학", "year": 1847,
+    "tags": { "elements": ["fire", "water"], "ten_gods": ["편재", "편관"], "mood": ["집착", "복수", "사랑", "황야"] },
+    "difficulty": "중간", "energy": "강렬함", "atmosphere": ["다크로맨스", "비극적"],
+    "description": "히스클리프와 캐서린의 파멸적이고 초월적인 사랑.",
+    "literaryInterpretation": "사랑이 집착이 될 때 무엇을 파괴하는지, 이 책은 냉정하게 보여줍니다."
+  },
+  {
+    "id": "024", "title": "위대한 개츠비", "originalTitle": "The Great Gatsby", "author": "F. 스콧 피츠제럴드", "country": "미국", "era": "현대", "category": "세계문학", "year": 1925,
+    "tags": { "elements": ["fire", "metal"], "ten_gods": ["편재", "정재"], "mood": ["꿈", "환상", "미국", "상실"] },
+    "difficulty": "중간", "energy": "애수", "atmosphere": ["화려한", "비극적"],
+    "description": "잃어버린 꿈을 향해 손을 뻗는 한 남자의 허망한 이야기.",
+    "literaryInterpretation": "손에 잡힐 것 같은 꿈이 사실 가장 멀리 있다는 것을, 녹색 불빛이 말해줍니다."
+  },
+  {
+    "id": "025", "title": "호밀밭의 파수꾼", "originalTitle": "The Catcher in the Rye", "author": "J. D. 샐린저", "country": "미국", "era": "현대", "category": "세계문학", "year": 1951,
+    "tags": { "elements": ["wood", "water"], "ten_gods": ["상관", "비견"], "mood": ["소외", "성장", "순수", "반항"] },
+    "difficulty": "쉬움", "energy": "날것", "atmosphere": ["날카로운", "청춘"],
+    "description": "위선적인 어른 세계에 적응하지 못하는 십대 소년의 방황.",
+    "literaryInterpretation": "어른이 되는 것이 결국 가장하는 법을 배우는 것이라면, 이 책은 그것을 거부합니다."
+  },
+  {
+    "id": "026", "title": "1984", "originalTitle": "Nineteen Eighty-Four", "author": "조지 오웰", "country": "영국", "era": "현대", "category": "세계문학", "year": 1949,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["편관", "상관"], "mood": ["권력", "감시", "저항", "진실"] },
+    "difficulty": "중간", "energy": "압박감", "atmosphere": ["디스토피아", "정치적"],
+    "description": "전체주의 사회에서 생각의 자유를 지키려는 한 인간의 투쟁.",
+    "literaryInterpretation": "생각할 자유가 있다는 것이 얼마나 소중한지, 이 책은 그것을 잃은 세계로 증명합니다."
+  },
+  {
+    "id": "027", "title": "노인과 바다", "originalTitle": "The Old Man and the Sea", "author": "어니스트 헤밍웨이", "country": "미국", "era": "현대", "category": "세계문학", "year": 1952,
+    "tags": { "elements": ["metal", "wood"], "ten_gods": ["비견", "편관"], "mood": ["의지", "고독", "인간", "자연"] },
+    "difficulty": "쉬움", "energy": "단단함", "atmosphere": ["미니멀한", "서사적"],
+    "description": "거대한 청새치와 싸우는 노어부의 마지막 항해.",
+    "literaryInterpretation": "질 수 있다는 것을 알면서도 맞서는 것, 그것이 인간의 품격임을 이 책이 말합니다."
+  },
+  {
+    "id": "028", "title": "달과 6펜스", "originalTitle": "The Moon and Sixpence", "author": "서머싯 몸", "country": "영국", "era": "현대", "category": "세계문학", "year": 1919,
+    "tags": { "elements": ["fire", "wood"], "ten_gods": ["편재", "식신"], "mood": ["예술", "집착", "자유", "탈출"] },
+    "difficulty": "중간", "energy": "강렬함", "atmosphere": ["예술적", "실험적"],
+    "description": "평범한 삶을 버리고 화가의 길을 택한 한 남자의 이야기.",
+    "literaryInterpretation": "안정을 버리고 진짜 원하는 것을 향해 달려가는 것이 얼마나 잔인하고 위대한지."
+  },
+  {
+    "id": "029", "title": "어린 왕자", "originalTitle": "Le Petit Prince", "author": "앙투안 드 생텍쥐페리", "country": "프랑스", "era": "현대", "category": "세계문학", "year": 1943,
+    "tags": { "elements": ["fire", "wood"], "ten_gods": ["식신", "편인"], "mood": ["순수", "관계", "철학", "어른"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["시적", "철학적"],
+    "description": "어린 왕자와 여우, 장미의 이야기를 통한 관계의 철학.",
+    "literaryInterpretation": "가장 중요한 것은 눈에 보이지 않는다는 말이, 지금 당신에게 필요한 문장일 수 있습니다."
+  },
+  {
+    "id": "030", "title": "설국", "originalTitle": "Yukiguni", "author": "가와바타 야스나리", "country": "일본", "era": "현대", "category": "세계문학", "year": 1948,
+    "tags": { "elements": ["water", "metal"], "ten_gods": ["편인", "정재"], "mood": ["고독", "미", "허무", "계절"] },
+    "difficulty": "중간", "energy": "쓸쓸함", "atmosphere": ["미학적", "허무적"],
+    "description": "눈의 고장에서 피어나는 덧없는 사랑과 아름다움.",
+    "literaryInterpretation": "사라지기 때문에 더 아름다운 것들이 있다는 것을, 이 책은 눈처럼 조용히 보여줍니다."
+  },
+  {
+    "id": "031", "title": "노르웨이의 숲", "originalTitle": "Noruwei no Mori", "author": "무라카미 하루키", "country": "일본", "era": "현대", "category": "세계문학", "year": 1987,
+    "tags": { "elements": ["water", "wood"], "ten_gods": ["정재", "편인"], "mood": ["상실", "기억", "사랑", "청춘"] },
+    "difficulty": "중간", "energy": "쓸쓸함", "atmosphere": ["서정적", "청춘"],
+    "description": "죽음과 상실 속에서 살아남으려는 청춘의 이야기.",
+    "literaryInterpretation": "죽은 자들이 남긴 공백을 안고도 살아가야 한다는 것을, 이 책이 조용히 가르쳐줍니다."
+  },
+  {
+    "id": "032", "title": "해변의 카프카", "originalTitle": "Umibe no Kafka", "author": "무라카미 하루키", "country": "일본", "era": "현대", "category": "세계문학", "year": 2002,
+    "tags": { "elements": ["wood", "water"], "ten_gods": ["편인", "식신"], "mood": ["성장", "신화", "탐색", "운명"] },
+    "difficulty": "중간", "energy": "몽환적", "atmosphere": ["마술적", "성장"],
+    "description": "현실과 신화가 뒤섞인 소년의 도주와 자아 발견.",
+    "literaryInterpretation": "가장 어두운 곳에 내려가야 가장 단단한 자아를 만날 수 있다는 것을 이 책이 보여줍니다."
+  },
+  {
+    "id": "033", "title": "인간 실격", "originalTitle": "Ningen Shikkaku", "author": "다자이 오사무", "country": "일본", "era": "현대", "category": "세계문학", "year": 1948,
+    "tags": { "elements": ["water", "metal"], "ten_gods": ["상관", "편관"], "mood": ["소외", "자멸", "고독", "수치"] },
+    "difficulty": "중간", "energy": "처절함", "atmosphere": ["자전적", "실존적"],
+    "description": "인간으로서 살아가는 법을 모르는 한 남자의 자서전.",
+    "literaryInterpretation": "타인과 어울리는 법이 서툴다고 느낄 때, 이 책은 그 고통에 이름을 붙여줍니다."
+  },
+  {
+    "id": "034", "title": "마음", "originalTitle": "Kokoro", "author": "나쓰메 소세키", "country": "일본", "era": "근대", "category": "세계문학", "year": 1914,
+    "tags": { "elements": ["water", "earth"], "ten_gods": ["편인", "정재"], "mood": ["죄", "우정", "근대", "고독"] },
+    "difficulty": "중간", "energy": "서늘함", "atmosphere": ["심리적", "서정적"],
+    "description": "비밀을 가진 노 선생과 청년의 관계를 통한 근대 일본의 고독.",
+    "literaryInterpretation": "비밀 하나가 사람을 어떻게 평생 갉아먹는지, 이 책은 조용하고 깊게 보여줍니다."
+  },
+  {
+    "id": "035", "title": "기억 경찰", "originalTitle": "Hisoyaka na Kesshō", "author": "오가와 요코", "country": "일본", "era": "현대", "category": "세계문학", "year": 1994,
+    "tags": { "elements": ["water", "metal"], "ten_gods": ["편인", "상관"], "mood": ["기억", "망각", "상실", "통제"] },
+    "difficulty": "중간", "energy": "쓸쓸함", "atmosphere": ["디스토피아", "서정적"],
+    "description": "물건들이 하나씩 사라지는 섬에서 기억을 지우려는 세계.",
+    "literaryInterpretation": "잊혀진다는 것이 얼마나 조용한 폭력인지, 이 책이 부드럽게 속삭입니다."
+  },
+  {
+    "id": "036", "title": "광장", "author": "최인훈", "country": "한국", "era": "현대", "category": "한국문학", "year": 1960,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["편관", "편인"], "mood": ["이념", "정체성", "분단", "고독"] },
+    "difficulty": "어려움", "energy": "묵직함", "atmosphere": ["사상적", "비극적"],
+    "description": "남과 북 어디에도 속하지 못한 한 지식인의 비극.",
+    "literaryInterpretation": "어디에도 완전히 속할 수 없다는 고독, 이 책은 그것이 한국적 실존임을 말합니다."
+  },
+  {
+    "id": "037", "title": "무진기행", "author": "김승옥", "country": "한국", "era": "현대", "category": "한국문학", "year": 1964,
+    "tags": { "elements": ["water", "wood"], "ten_gods": ["편인", "정재"], "mood": ["고독", "안개", "내면", "귀향"] },
+    "difficulty": "중간", "energy": "쓸쓸함", "atmosphere": ["서정적", "감각적"],
+    "description": "안개 낀 도시 무진으로 돌아온 남자의 짧은 이탈과 회귀.",
+    "literaryInterpretation": "현실로 돌아가야 한다는 것을 알면서도 잠시 머물고 싶은 곳이 있다는 것을 이 책이 압니다."
+  },
+  {
+    "id": "038", "title": "서울, 1964년 겨울", "author": "김승옥", "country": "한국", "era": "현대", "category": "한국문학", "year": 1965,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["상관", "편관"], "mood": ["소외", "도시", "고독", "근대"] },
+    "difficulty": "중간", "energy": "서늘함", "atmosphere": ["도시적", "실존적"],
+    "description": "1960년대 서울의 거리에서 만난 세 남자의 하룻밤.",
+    "literaryInterpretation": "도시의 군중 속에서 더 깊어지는 고독을 이 책은 정확한 언어로 포착합니다."
+  },
+  {
+    "id": "039", "title": "나목", "author": "박완서", "country": "한국", "era": "현대", "category": "한국문학", "year": 1970,
+    "tags": { "elements": ["wood", "earth"], "ten_gods": ["정재", "정인"], "mood": ["전쟁", "생존", "예술", "여성"] },
+    "difficulty": "중간", "energy": "서늘함", "atmosphere": ["사실적", "역사적"],
+    "description": "전쟁 직후 서울을 배경으로 한 여성 화가의 생존과 사랑.",
+    "literaryInterpretation": "전쟁이 지나간 자리에서도 예술을 꿈꾼다는 것이 얼마나 인간적인 일인지."
+  },
+  {
+    "id": "040", "title": "그 많던 싱아는 누가 다 먹었을까", "author": "박완서", "country": "한국", "era": "현대", "category": "한국문학", "year": 1992,
+    "tags": { "elements": ["wood", "earth"], "ten_gods": ["정인", "정재"], "mood": ["유년", "기억", "전쟁", "성장"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["자전적", "서정적"],
+    "description": "한국 근현대사를 살아낸 한 여성 작가의 유년 회고록.",
+    "literaryInterpretation": "과거를 정직하게 바라보는 것이 현재를 이해하는 유일한 방법임을 이 책이 보여줍니다."
+  },
+  {
+    "id": "041", "title": "소나기", "author": "황순원", "country": "한국", "era": "현대", "category": "한국문학", "year": 1953,
+    "tags": { "elements": ["fire", "wood"], "ten_gods": ["식신", "정재"], "mood": ["순수", "첫사랑", "상실", "자연"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["서정적", "순수"],
+    "description": "소나기 같은 짧고 아름다운 첫사랑의 이야기.",
+    "literaryInterpretation": "어떤 감정은 완성되지 않아서 더 아름답다는 것을, 소년과 소녀가 말없이 보여줍니다."
+  },
+  {
+    "id": "042", "title": "날개", "author": "이상", "country": "한국", "era": "근대", "category": "한국문학", "year": 1936,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["상관", "편인"], "mood": ["의식", "실험", "소외", "근대"] },
+    "difficulty": "어려움", "energy": "몽환적", "atmosphere": ["실험적", "전위적"],
+    "description": "의식의 파편으로 이루어진 한국 모더니즘의 정점.",
+    "literaryInterpretation": "의식이 언어보다 먼저 움직인다는 것을, 이 책은 형식으로 증명합니다."
+  },
+  {
+    "id": "043", "title": "소년이 온다", "author": "한강", "country": "한국", "era": "현대", "category": "한국문학", "year": 2014,
+    "tags": { "elements": ["fire", "water"], "ten_gods": ["정관", "편인"], "mood": ["역사", "폭력", "기억", "애도"] },
+    "difficulty": "어려움", "energy": "처절함", "atmosphere": ["역사적", "비극적"],
+    "description": "5·18 광주민주화운동을 살아낸 사람들의 이야기.",
+    "literaryInterpretation": "역사가 개인의 몸을 어떻게 통과하는지, 이 책은 그 상처를 직접 건드립니다."
+  },
+  {
+    "id": "044", "title": "채식주의자", "author": "한강", "country": "한국", "era": "현대", "category": "한국문학", "year": 2007,
+    "tags": { "elements": ["wood", "metal"], "ten_gods": ["편인", "상관"], "mood": ["육체", "저항", "여성", "폭력"] },
+    "difficulty": "중간", "energy": "섬뜩함", "atmosphere": ["심리적", "상징적"],
+    "description": "고기를 거부한 여성을 통해 육체와 존재의 경계를 탐구.",
+    "literaryInterpretation": "무언가를 거부하는 것이 때로는 가장 강렬한 발언이 될 수 있습니다."
+  },
+  {
+    "id": "045", "title": "흰", "author": "한강", "country": "한국", "era": "현대", "category": "한국문학", "year": 2016,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["편인", "정인"], "mood": ["상실", "애도", "기억", "시"] },
+    "difficulty": "중간", "energy": "고요함", "atmosphere": ["시적", "명상적"],
+    "description": "흰 것들에 대한 사유로 이루어진 산문시집.",
+    "literaryInterpretation": "애도는 끝내지 않아도 된다는 것을, 이 책은 눈처럼 하얗게 말합니다."
+  },
+  {
+    "id": "046", "title": "82년생 김지영", "author": "조남주", "country": "한국", "era": "현대", "category": "한국문학", "year": 2016,
+    "tags": { "elements": ["earth", "metal"], "ten_gods": ["정관", "비견"], "mood": ["여성", "사회", "일상", "차별"] },
+    "difficulty": "쉬움", "energy": "묵직함", "atmosphere": ["사실적", "사회적"],
+    "description": "한국 사회에서 평범하게 살아온 한 여성의 이야기.",
+    "literaryInterpretation": "특별하지 않은 삶이 사실 얼마나 많은 것을 견디고 있었는지, 이 책이 기록합니다."
+  },
+  {
+    "id": "047", "title": "아몬드", "author": "손원평", "country": "한국", "era": "현대", "category": "한국문학", "year": 2017,
+    "tags": { "elements": ["metal", "wood"], "ten_gods": ["식신", "비견"], "mood": ["감정", "성장", "공감", "관계"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["성장", "따뜻한"],
+    "description": "감정을 느끼지 못하는 소년이 관계를 통해 변화하는 이야기.",
+    "literaryInterpretation": "감정을 배우는 것이 어쩌면 삶에서 가장 긴 공부임을 이 책이 말합니다."
+  },
+  {
+    "id": "048", "title": "우리가 빛의 속도로 갈 수 없다면", "author": "김초엽", "country": "한국", "era": "현대", "category": "한국문학", "year": 2019,
+    "tags": { "elements": ["water", "wood"], "ten_gods": ["편인", "식신"], "mood": ["SF", "그리움", "관계", "이별"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["SF", "서정적"],
+    "description": "SF의 형식으로 쓴 인간의 그리움과 연결에 관한 단편집.",
+    "literaryInterpretation": "과학기술이 발전해도 그리움은 사라지지 않는다는 것을, 이 책이 부드럽게 보여줍니다."
+  },
+  {
+    "id": "049", "title": "보건교사 안은영", "author": "정세랑", "country": "한국", "era": "현대", "category": "한국문학", "year": 2015,
+    "tags": { "elements": ["fire", "wood"], "ten_gods": ["식신", "편인"], "mood": ["판타지", "일상", "연대", "여성"] },
+    "difficulty": "쉬움", "energy": "생동감", "atmosphere": ["판타지", "유쾌한"],
+    "description": "학교에서 젤리 귀신을 퇴치하는 보건교사의 이야기.",
+    "literaryInterpretation": "일상 속 이상함을 담담하게 받아들이는 사람이 가장 강하다는 것을 보여줍니다."
+  },
+  {
+    "id": "050", "title": "피프티 피플", "author": "정세랑", "country": "한국", "era": "현대", "category": "한국문학", "year": 2016,
+    "tags": { "elements": ["earth", "fire"], "ten_gods": ["식신", "정재"], "mood": ["공동체", "일상", "따뜻함", "연대"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["따뜻한", "공동체"],
+    "description": "한 병원을 중심으로 연결된 50명의 삶을 담은 이야기.",
+    "literaryInterpretation": "우리는 서로 알지 못해도 이미 연결되어 있다는 것을, 이 책이 아름답게 보여줍니다."
+  },
+  {
+    "id": "051", "title": "하늘과 바람과 별과 시", "author": "윤동주", "country": "한국", "era": "근대", "category": "한국문학", "year": 1948,
+    "tags": { "elements": ["water", "wood"], "ten_gods": ["정인", "편인"], "mood": ["저항", "순수", "서정", "부끄러움"] },
+    "difficulty": "쉬움", "energy": "고요함", "atmosphere": ["시적", "서정적"],
+    "description": "식민지 시대 청년 시인의 순수하고 맑은 내면의 노래.",
+    "literaryInterpretation": "부끄러움을 느끼는 사람이 가장 깨끗한 양심을 가졌다는 것을, 동주가 보여줍니다."
+  },
+  {
+    "id": "052", "title": "진달래꽃", "author": "김소월", "country": "한국", "era": "근대", "category": "한국문학", "year": 1925,
+    "tags": { "elements": ["fire", "water"], "ten_gods": ["정재", "식신"], "mood": ["이별", "한", "서정", "그리움"] },
+    "difficulty": "쉬움", "energy": "쓸쓸함", "atmosphere": ["시적", "전통적"],
+    "description": "한국의 정서와 한(恨)을 담은 서정시집.",
+    "literaryInterpretation": "이별을 말하면서도 보내주는 마음, 그것이 가장 깊은 사랑임을 소월이 알고 있었습니다."
+  },
+  {
+    "id": "053", "title": "칼의 노래", "author": "김훈", "country": "한국", "era": "현대", "category": "한국문학", "year": 2001,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["비견", "편관"], "mood": ["역사", "고독", "의지", "전쟁"] },
+    "difficulty": "어려움", "energy": "단단함", "atmosphere": ["역사적", "미니멀한"],
+    "description": "이순신의 시각으로 쓴 임진왜란의 기록.",
+    "literaryInterpretation": "버텨야 한다는 것을 알면서도 이유를 모를 때, 이순신의 언어가 곁에 있어줍니다."
+  },
+  {
+    "id": "054", "title": "살인자의 기억법", "author": "김영하", "country": "한국", "era": "현대", "category": "한국문학", "year": 2013,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["편인", "상관"], "mood": ["기억", "서사", "심리", "불확실"] },
+    "difficulty": "중간", "energy": "서늘함", "atmosphere": ["심리적", "미스터리"],
+    "description": "알츠하이머에 걸린 전직 연쇄살인마의 기억과 현재.",
+    "literaryInterpretation": "기억이 흐려질 때 우리는 무엇으로 존재하는지, 이 책이 섬뜩하게 묻습니다."
+  },
+  {
+    "id": "055", "title": "파친코", "author": "이민진", "country": "한국·미국", "era": "현대", "category": "세계문학", "year": 2017,
+    "tags": { "elements": ["earth", "wood"], "ten_gods": ["정관", "정재"], "mood": ["이민", "역사", "가족", "정체성"] },
+    "difficulty": "중간", "energy": "묵직함", "atmosphere": ["역사적", "서사적"],
+    "description": "재일교포 4대에 걸친 이야기를 통해 정체성과 생존을 탐구.",
+    "literaryInterpretation": "어디에도 완전히 속하지 못하는 사람들이 어떻게 뿌리를 내리는지, 이 책이 보여줍니다."
+  },
+  {
+    "id": "056", "title": "토지", "author": "박경리", "country": "한국", "era": "현대", "category": "한국문학", "year": 1994,
+    "tags": { "elements": ["earth", "wood"], "ten_gods": ["정인", "정재"], "mood": ["역사", "민족", "가족", "생존"] },
+    "difficulty": "매우어려움", "energy": "장엄함", "atmosphere": ["장대한", "역사적"],
+    "description": "구한말부터 해방까지 한 가문과 민족의 대서사시.",
+    "literaryInterpretation": "땅이 기억하는 것들, 사람이 기억해야 하는 것들에 대한 가장 큰 이야기."
+  },
+  {
+    "id": "057", "title": "레 미제라블", "originalTitle": "Les Misérables", "author": "빅토르 위고", "country": "프랑스", "era": "고전", "category": "세계문학", "year": 1862,
+    "tags": { "elements": ["fire", "wood"], "ten_gods": ["정관", "정인"], "mood": ["정의", "구원", "역사", "연민"] },
+    "difficulty": "어려움", "energy": "장엄함", "atmosphere": ["서사적", "인도주의적"],
+    "description": "장발장의 구원을 통해 법과 정의, 인간의 선함을 탐구한 대작.",
+    "literaryInterpretation": "선함은 타고나는 것이 아니라 선택된다는 것을, 장발장이 삶으로 보여줍니다."
+  },
+  {
+    "id": "058", "title": "구토", "originalTitle": "La Nausée", "author": "장폴 사르트르", "country": "프랑스", "era": "현대", "category": "세계문학", "year": 1938,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["편인", "상관"], "mood": ["실존", "불안", "자유", "의식"] },
+    "difficulty": "어려움", "energy": "불편함", "atmosphere": ["실존적", "철학적"],
+    "description": "존재의 의미를 찾으려다 구역질을 느끼는 한 남자의 일기.",
+    "literaryInterpretation": "세계가 무의미하게 느껴질 때, 이 책은 그 무의미함을 직시하는 것이 시작이라고 말합니다."
+  },
+  {
+    "id": "059", "title": "보봐리 부인", "originalTitle": "Madame Bovary", "author": "귀스타브 플로베르", "country": "프랑스", "era": "고전", "category": "세계문학", "year": 1857,
+    "tags": { "elements": ["fire", "metal"], "ten_gods": ["편재", "상관"], "mood": ["낭만", "환상", "현실", "욕망"] },
+    "difficulty": "중간", "energy": "강렬함", "atmosphere": ["비극적", "사실주의"],
+    "description": "낭만을 꿈꾸다 현실에 부서지는 한 여성의 비극.",
+    "literaryInterpretation": "우리가 원하는 삶과 실제 삶 사이의 간극이 얼마나 위험한지를 이 책이 보여줍니다."
+  },
+  {
+    "id": "060", "title": "잃어버린 시간을 찾아서 — 스완네 집 쪽으로", "originalTitle": "Du côté de chez Swann", "author": "마르셀 프루스트", "country": "프랑스", "era": "현대", "category": "세계문학", "year": 1913,
+    "tags": { "elements": ["water", "fire"], "ten_gods": ["편인", "식신"], "mood": ["기억", "감각", "시간", "예술"] },
+    "difficulty": "매우어려움", "energy": "풍요로움", "atmosphere": ["감각적", "사색적"],
+    "description": "마들렌 과자의 향기로 시작되는 방대한 기억의 탐구.",
+    "literaryInterpretation": "사라진 줄 알았던 시간이 감각 속에 살아 있다는 것을, 이 책이 증명합니다."
+  },
+  {
+    "id": "061", "title": "픽션들", "originalTitle": "Ficciones", "author": "호르헤 루이스 보르헤스", "country": "아르헨티나", "era": "현대", "category": "세계문학", "year": 1944,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["편인", "상관"], "mood": ["미로", "철학", "텍스트", "무한"] },
+    "difficulty": "어려움", "energy": "현기증", "atmosphere": ["메타픽션", "철학적"],
+    "description": "도서관, 거울, 미로로 이루어진 단편들.",
+    "literaryInterpretation": "세계가 하나의 텍스트라면, 우리는 그 안에서 의미를 만드는 독자입니다."
+  },
+  {
+    "id": "062", "title": "보이지 않는 도시들", "originalTitle": "Le città invisibili", "author": "이탈로 칼비노", "country": "이탈리아", "era": "현대", "category": "세계문학", "year": 1972,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["편인", "상관"], "mood": ["도시", "상상", "기억", "철학"] },
+    "difficulty": "중간", "energy": "몽환적", "atmosphere": ["시적", "철학적"],
+    "description": "마르코 폴로가 묘사하는 상상의 55개 도시들.",
+    "literaryInterpretation": "모든 도시는 사실 하나의 도시이고, 그 도시는 기억이라는 것을 이 책이 말합니다."
+  },
+  {
+    "id": "063", "title": "거장과 마르가리타", "originalTitle": "Master i Margarita", "author": "미하일 불가코프", "country": "러시아", "era": "현대", "category": "세계문학", "year": 1967,
+    "tags": { "elements": ["fire", "wood"], "ten_gods": ["편인", "식신"], "mood": ["악마", "풍자", "예술", "자유"] },
+    "difficulty": "어려움", "energy": "강렬함", "atmosphere": ["마술적", "풍자적"],
+    "description": "악마가 소련 모스크바를 방문하며 벌어지는 기이한 사건들.",
+    "literaryInterpretation": "악마가 오히려 진실을 말하는 세계, 이 책은 그 역설이 얼마나 현실적인지 보여줍니다."
+  },
+  {
+    "id": "064", "title": "체호프 단편선", "author": "안톤 체호프", "country": "러시아", "era": "고전", "category": "세계문학", "year": 1900,
+    "tags": { "elements": ["water", "earth"], "ten_gods": ["정재", "식신"], "mood": ["일상", "연민", "인간", "관찰"] },
+    "difficulty": "중간", "energy": "잔잔함", "atmosphere": ["사실주의", "인간적"],
+    "description": "평범한 인간들의 슬픔과 희망을 담은 단편들.",
+    "literaryInterpretation": "위대한 사건보다 작은 일상의 슬픔이 더 진실하다는 것을 체호프는 알고 있었습니다."
+  },
+  {
+    "id": "065", "title": "영혼의 집", "originalTitle": "La casa de los espíritus", "author": "이사벨 아옌데", "country": "칠레", "era": "현대", "category": "세계문학", "year": 1982,
+    "tags": { "elements": ["wood", "fire"], "ten_gods": ["편인", "식신"], "mood": ["가족", "역사", "신비", "여성"] },
+    "difficulty": "중간", "energy": "풍요로움", "atmosphere": ["마술적", "서사적"],
+    "description": "남미 한 가족의 4대에 걸친 역사와 마술적 현실.",
+    "literaryInterpretation": "여성들이 기억하고 전달하는 것들이 역사의 또 다른 이름임을 이 책이 말합니다."
+  },
+  {
+    "id": "066", "title": "침묵", "originalTitle": "Chinmoku", "author": "엔도 슈사쿠", "country": "일본", "era": "현대", "category": "세계문학", "year": 1966,
+    "tags": { "elements": ["water", "earth"], "ten_gods": ["정인", "편관"], "mood": ["신앙", "배반", "고통", "침묵"] },
+    "difficulty": "어려움", "energy": "묵직함", "atmosphere": ["종교적", "역사적"],
+    "description": "신의 침묵 앞에서 신앙과 배교 사이에서 고뇌하는 선교사.",
+    "literaryInterpretation": "신이 답하지 않을 때에도 믿음을 유지하는 것이 무엇인지, 이 책이 무겁게 묻습니다."
+  },
+  {
+    "id": "067", "title": "두이노의 비가", "originalTitle": "Duineser Elegien", "author": "라이너 마리아 릴케", "country": "독일", "era": "근대", "category": "세계문학", "year": 1923,
+    "tags": { "elements": ["water", "metal"], "ten_gods": ["편인", "상관"], "mood": ["실존", "아름다움", "죽음", "천사"] },
+    "difficulty": "매우어려움", "energy": "장엄함", "atmosphere": ["시적", "실존적"],
+    "description": "인간 존재의 덧없음과 아름다움을 노래하는 시집.",
+    "literaryInterpretation": "아름다움은 두려움의 시작이라는 릴케의 말이 당신에게 닿을 때가 있습니다."
+  },
+  {
+    "id": "068", "title": "젊은 시인에게 보내는 편지", "originalTitle": "Briefe an einen jungen Dichter", "author": "라이너 마리아 릴케", "country": "독일", "era": "근대", "category": "세계문학", "year": 1929,
+    "tags": { "elements": ["wood", "water"], "ten_gods": ["정인", "편인"], "mood": ["예술", "고독", "조언", "삶"] },
+    "difficulty": "쉬움", "energy": "고요함", "atmosphere": ["서간체", "철학적"],
+    "description": "한 젊은 시인에게 보내는 삶과 예술에 관한 편지들.",
+    "literaryInterpretation": "고독을 사랑하는 법을 배우라는 릴케의 말이, 지금 당신에게 가장 필요한 처방일 수 있습니다."
+  },
+  {
+    "id": "069", "title": "유랑자들", "originalTitle": "Bieguni", "author": "올가 토카르축", "country": "폴란드", "era": "현대", "category": "세계문학", "year": 2007,
+    "tags": { "elements": ["water", "wood"], "ten_gods": ["편인", "비견"], "mood": ["여행", "정체성", "이동", "존재"] },
+    "difficulty": "어려움", "energy": "자유로움", "atmosphere": ["실험적", "철학적"],
+    "description": "움직임과 이동 자체를 삶의 방식으로 삼은 사람들의 이야기.",
+    "literaryInterpretation": "정착하지 않는 것이 어떤 이에게는 가장 정직한 삶의 방식임을 이 책이 말합니다."
+  },
+  {
+    "id": "070", "title": "모비딕", "originalTitle": "Moby-Dick", "author": "허먼 멜빌", "country": "미국", "era": "고전", "category": "세계문학", "year": 1851,
+    "tags": { "elements": ["water", "fire"], "ten_gods": ["편관", "비견"], "mood": ["집착", "자연", "운명", "광기"] },
+    "difficulty": "어려움", "energy": "장엄함", "atmosphere": ["서사적", "철학적"],
+    "description": "흰 고래 모비딕을 쫓는 에이헤브 선장의 집착과 파멸.",
+    "literaryInterpretation": "한 가지를 향한 절대적 집착이 어디까지 사람을 데려가는지, 이 책이 장대하게 보여줍니다."
+  },
+  {
+    "id": "071", "title": "앵무새 죽이기", "originalTitle": "To Kill a Mockingbird", "author": "하퍼 리", "country": "미국", "era": "현대", "category": "세계문학", "year": 1960,
+    "tags": { "elements": ["earth", "fire"], "ten_gods": ["정관", "정인"], "mood": ["정의", "인종", "성장", "용기"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["사회적", "성장"],
+    "description": "소녀의 시선으로 본 인종 차별과 정의의 이야기.",
+    "literaryInterpretation": "올바른 것이 외롭고 어려울 때, 애티커스 핀치가 곁에서 걸어줍니다."
+  },
+  {
+    "id": "072", "title": "멋진 신세계", "originalTitle": "Brave New World", "author": "올더스 헉슬리", "country": "영국", "era": "현대", "category": "세계문학", "year": 1932,
+    "tags": { "elements": ["metal", "fire"], "ten_gods": ["편관", "식신"], "mood": ["디스토피아", "자유", "쾌락", "통제"] },
+    "difficulty": "중간", "energy": "서늘함", "atmosphere": ["디스토피아", "철학적"],
+    "description": "행복이 강제된 세계에서 자유를 원하는 인간의 이야기.",
+    "literaryInterpretation": "고통을 제거한 행복이 진정한 행복인지, 이 책이 당신에게 묻습니다."
+  },
+  {
+    "id": "073", "title": "위대한 유산", "originalTitle": "Great Expectations", "author": "찰스 디킨스", "country": "영국", "era": "고전", "category": "세계문학", "year": 1861,
+    "tags": { "elements": ["wood", "earth"], "ten_gods": ["정재", "정관"], "mood": ["계층", "성장", "환상", "자아"] },
+    "difficulty": "중간", "energy": "생동감", "atmosphere": ["사회적", "성장"],
+    "description": "고아 소년의 신분 상승과 내면 성장 이야기.",
+    "literaryInterpretation": "진정한 신사는 지위가 아닌 인격에서 온다는 것을 핍이 긴 여정 끝에 깨닫습니다."
+  },
+  {
+    "id": "074", "title": "지하로부터의 수기", "originalTitle": "Zapiski iz podpolya", "author": "도스토옙스키", "country": "러시아", "era": "고전", "category": "세계문학", "year": 1864,
+    "tags": { "elements": ["water", "metal"], "ten_gods": ["상관", "편인"], "mood": ["고독", "자의식", "반항", "심리"] },
+    "difficulty": "어려움", "energy": "불편함", "atmosphere": ["심리적", "실존적"],
+    "description": "인간의 자의식과 자기 파괴 욕망을 극단까지 탐구.",
+    "literaryInterpretation": "이성이 내리는 결론과 반대로 행동하고 싶은 충동, 그것이 인간임을 이 책이 말합니다."
+  },
+  {
+    "id": "075", "title": "죽은 영혼들", "originalTitle": "Myortvye dushi", "author": "니콜라이 고골", "country": "러시아", "era": "고전", "category": "세계문학", "year": 1842,
+    "tags": { "elements": ["metal", "fire"], "ten_gods": ["상관", "편재"], "mood": ["풍자", "러시아", "허상", "사기"] },
+    "difficulty": "어려움", "energy": "블랙코미디", "atmosphere": ["풍자적", "사실주의"],
+    "description": "죽은 농노의 명단을 사려는 사기꾼을 통한 러시아 사회 풍자.",
+    "literaryInterpretation": "허상을 팔고 사는 것이 어쩌면 인간 사회의 근본임을 고골이 비틀어 보여줍니다."
+  },
+  {
+    "id": "076", "title": "모래의 여자", "originalTitle": "Suna no Onna", "author": "아베 코보", "country": "일본", "era": "현대", "category": "세계문학", "year": 1962,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["편관", "상관"], "mood": ["탈출", "소외", "실존", "감금"] },
+    "difficulty": "중간", "energy": "불안함", "atmosphere": ["실존적", "심리적"],
+    "description": "모래구덩이에 갇힌 남자와 여인의 기이한 공존.",
+    "literaryInterpretation": "탈출하고 싶은 상황이 어느 순간 살아가는 이유가 될 때, 이 책이 그 역설을 말합니다."
+  },
+  {
+    "id": "077", "title": "운수 좋은 날", "author": "현진건", "country": "한국", "era": "근대", "category": "한국문학", "year": 1924,
+    "tags": { "elements": ["water", "fire"], "ten_gods": ["정재", "상관"], "mood": ["아이러니", "빈곤", "비극", "일상"] },
+    "difficulty": "쉬움", "energy": "슬픔", "atmosphere": ["사실주의", "비극적"],
+    "description": "아내가 죽은 날 재수가 좋다는 아이러니의 단편.",
+    "literaryInterpretation": "삶의 가장 슬픈 날이 가장 좋은 날로 불리는 아이러니를 이 작품이 정확히 포착합니다."
+  },
+  {
+    "id": "078", "title": "무정", "author": "이광수", "country": "한국", "era": "근대", "category": "한국문학", "year": 1917,
+    "tags": { "elements": ["fire", "wood"], "ten_gods": ["정관", "비견"], "mood": ["근대", "계몽", "사랑", "변화"] },
+    "difficulty": "중간", "energy": "열정적", "atmosphere": ["역사적", "낭만적"],
+    "description": "한국 최초의 근대 장편소설. 신구 세대의 갈등과 계몽.",
+    "literaryInterpretation": "변화의 시대에 무엇을 지키고 무엇을 버릴 것인지, 이 책이 한국 근대의 언어로 묻습니다."
+  },
+  {
+    "id": "079", "title": "방금 떠나온 세계", "author": "김초엽", "country": "한국", "era": "현대", "category": "한국문학", "year": 2021,
+    "tags": { "elements": ["water", "wood"], "ten_gods": ["식신", "편인"], "mood": ["SF", "이별", "그리움", "시간"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["SF", "서정적"],
+    "description": "SF의 언어로 쓴 이별과 기억과 그리움의 이야기들.",
+    "literaryInterpretation": "먼 미래에도 우리가 서로를 그리워할 것이라는 사실이 오히려 위로가 됩니다."
+  },
+  {
+    "id": "080", "title": "완득이", "author": "김려령", "country": "한국", "era": "현대", "category": "한국문학", "year": 2008,
+    "tags": { "elements": ["wood", "fire"], "ten_gods": ["식신", "비견"], "mood": ["성장", "다양성", "따뜻함", "가족"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["따뜻한", "성장"],
+    "description": "이주민 아버지를 둔 소년의 성장과 인간관계.",
+    "literaryInterpretation": "가장 소외된 곳에서도 관계가 피어난다는 것을, 완득이가 투박하게 보여줍니다."
+  },
+  {
+    "id": "081", "title": "아Q정전", "originalTitle": "阿Q正傳", "author": "루쉰", "country": "중국", "era": "근대", "category": "세계문학", "year": 1921,
+    "tags": { "elements": ["metal", "fire"], "ten_gods": ["상관", "편관"], "mood": ["풍자", "자기기만", "중국", "근대"] },
+    "difficulty": "중간", "energy": "블랙코미디", "atmosphere": ["풍자적", "사회적"],
+    "description": "자신의 패배를 정신적 승리로 바꾸는 인물을 통한 중국 근대 풍자.",
+    "literaryInterpretation": "실패를 성공으로 해석하는 자기기만이 얼마나 비극적인지, 루쉰이 날카롭게 보여줍니다."
+  },
+  {
+    "id": "082", "title": "삼대", "author": "염상섭", "country": "한국", "era": "근대", "category": "한국문학", "year": 1931,
+    "tags": { "elements": ["earth", "metal"], "ten_gods": ["정재", "정관"], "mood": ["세대", "근대", "가족", "갈등"] },
+    "difficulty": "중간", "energy": "묵직함", "atmosphere": ["사실주의", "역사적"],
+    "description": "구한말 한 가족 3세대의 갈등과 근대화 과정.",
+    "literaryInterpretation": "세대 간 갈등이 사실 시대의 변화를 몸으로 살아내는 것임을 이 책이 보여줍니다."
+  },
+  {
+    "id": "083", "title": "봄봄", "author": "김유정", "country": "한국", "era": "근대", "category": "한국문학", "year": 1935,
+    "tags": { "elements": ["wood", "fire"], "ten_gods": ["식신", "비견"], "mood": ["해학", "농촌", "순박", "사랑"] },
+    "difficulty": "쉬움", "energy": "유쾌함", "atmosphere": ["해학적", "향토적"],
+    "description": "농촌 총각의 사랑과 사위 노릇 사이의 해학적 이야기.",
+    "literaryInterpretation": "어리숙해 보이는 사람이 사실 가장 진실한 마음을 가졌음을 이 책이 웃음으로 말합니다."
+  },
+  {
+    "id": "084", "title": "나는 나를 파괴할 권리가 있다", "author": "김영하", "country": "한국", "era": "현대", "category": "한국문학", "year": 1996,
+    "tags": { "elements": ["water", "metal"], "ten_gods": ["상관", "편인"], "mood": ["허무", "죽음", "예술", "도발"] },
+    "difficulty": "중간", "energy": "서늘함", "atmosphere": ["도발적", "예술적"],
+    "description": "죽음을 예술로 삼는 작가와 그를 둘러싼 인물들의 이야기.",
+    "literaryInterpretation": "삶을 소비하는 방식에 대해 가장 도발적인 질문을 던지는 소설입니다."
+  },
+  {
+    "id": "085", "title": "작별하지 않는다", "author": "한강", "country": "한국", "era": "현대", "category": "한국문학", "year": 2021,
+    "tags": { "elements": ["water", "metal"], "ten_gods": ["편인", "정인"], "mood": ["기억", "역사", "애도", "눈"] },
+    "difficulty": "어려움", "energy": "고요함", "atmosphere": ["시적", "역사적"],
+    "description": "제주 4·3을 배경으로 한 기억과 애도에 관한 소설.",
+    "literaryInterpretation": "작별을 거부하는 것이 때로는 가장 깊은 사랑의 형태임을 이 책이 눈처럼 내려옵니다."
+  },
+  {
+    "id": "086", "title": "모파상 단편선", "author": "기 드 모파상", "country": "프랑스", "era": "고전", "category": "세계문학", "year": 1885,
+    "tags": { "elements": ["earth", "water"], "ten_gods": ["정재", "편인"], "mood": ["일상", "욕망", "인간", "아이러니"] },
+    "difficulty": "쉬움", "energy": "잔잔함", "atmosphere": ["사실주의", "인간적"],
+    "description": "인간의 욕망과 삶의 아이러니를 담은 단편들.",
+    "literaryInterpretation": "평범한 삶 속에 숨겨진 욕망과 비극을, 모파상은 냉정하고 아름답게 포착합니다."
+  },
+  {
+    "id": "087", "title": "돈키호테", "originalTitle": "Don Quijote", "author": "미겔 데 세르반테스", "country": "스페인", "era": "고전", "category": "세계문학", "year": 1605,
+    "tags": { "elements": ["wood", "fire"], "ten_gods": ["식신", "편재"], "mood": ["이상", "현실", "광기", "기사도"] },
+    "difficulty": "어려움", "energy": "유쾌함", "atmosphere": ["해학적", "철학적"],
+    "description": "기사 소설을 너무 읽어 기사가 된 남자의 모험.",
+    "literaryInterpretation": "현실보다 이상이 더 아름다울 때, 광기와 순수의 경계가 사라집니다."
+  },
+  {
+    "id": "088", "title": "파리대왕", "originalTitle": "Lord of the Flies", "author": "윌리엄 골딩", "country": "영국", "era": "현대", "category": "세계문학", "year": 1954,
+    "tags": { "elements": ["metal", "fire"], "ten_gods": ["편관", "비견"], "mood": ["인간본성", "생존", "야만", "사회"] },
+    "difficulty": "중간", "energy": "불안함", "atmosphere": ["심리적", "사회적"],
+    "description": "무인도에 고립된 소년들이 점차 야만으로 변해가는 이야기.",
+    "literaryInterpretation": "문명이 얼마나 얇은 껍데기인지, 이 책은 소년들을 통해 냉정하게 보여줍니다."
+  },
+  {
+    "id": "089", "title": "오 헨리 단편선", "author": "오 헨리", "country": "미국", "era": "근대", "category": "세계문학", "year": 1906,
+    "tags": { "elements": ["fire", "earth"], "ten_gods": ["식신", "정재"], "mood": ["반전", "따뜻함", "일상", "아이러니"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["따뜻한", "반전"],
+    "description": "마지막에 반전이 있는 따뜻하고 인간적인 단편들.",
+    "literaryInterpretation": "가장 평범한 사람들의 선함이 가장 위대한 드라마를 만든다는 것을 오 헨리가 말합니다."
+  },
+  {
+    "id": "090", "title": "주홍글씨", "originalTitle": "The Scarlet Letter", "author": "너새니얼 호손", "country": "미국", "era": "고전", "category": "세계문학", "year": 1850,
+    "tags": { "elements": ["fire", "earth"], "ten_gods": ["정관", "비견"], "mood": ["죄", "사회", "여성", "용기"] },
+    "difficulty": "중간", "energy": "묵직함", "atmosphere": ["도덕적", "역사적"],
+    "description": "간통을 저지른 여성과 그녀를 낙인찍는 사회의 이야기.",
+    "literaryInterpretation": "낙인이 찍혀도 자신을 지키는 헤스터의 용기가, 어떤 규칙보다 강합니다."
+  },
+  {
+    "id": "091", "title": "사양", "originalTitle": "Shayō", "author": "다자이 오사무", "country": "일본", "era": "현대", "category": "세계문학", "year": 1947,
+    "tags": { "elements": ["water", "fire"], "ten_gods": ["상관", "정재"], "mood": ["몰락", "귀족", "전후", "비극"] },
+    "difficulty": "중간", "energy": "쓸쓸함", "atmosphere": ["비극적", "서정적"],
+    "description": "전후 일본 귀족 가문의 몰락을 그린 비극적 이야기.",
+    "literaryInterpretation": "시대가 끝나는 것을 바라보며 우아하게 사라지는 것도 하나의 품격임을 이 책이 보여줍니다."
+  },
+  {
+    "id": "092", "title": "1Q84", "author": "무라카미 하루키", "country": "일본", "era": "현대", "category": "세계문학", "year": 2009,
+    "tags": { "elements": ["water", "metal"], "ten_gods": ["편인", "편관"], "mood": ["대안현실", "사랑", "신화", "운명"] },
+    "difficulty": "중간", "energy": "몽환적", "atmosphere": ["마술적", "서사적"],
+    "description": "두 달이 뜨는 세계에서 이어지는 두 사람의 엇갈린 이야기.",
+    "literaryInterpretation": "평행한 삶을 살아도 반드시 만나야 할 사람이 있다는 것을, 이 책이 말합니다."
+  },
+  {
+    "id": "093", "title": "제인 에어", "originalTitle": "Jane Eyre", "author": "샬럿 브론테", "country": "영국", "era": "고전", "category": "세계문학", "year": 1847,
+    "tags": { "elements": ["fire", "wood"], "ten_gods": ["정관", "비견"], "mood": ["자립", "사랑", "정체성", "저항"] },
+    "difficulty": "중간", "energy": "강인함", "atmosphere": ["강렬한", "낭만적"],
+    "description": "가난하지만 당당한 여성의 사랑과 자아 찾기.",
+    "literaryInterpretation": "나를 낮추면 사랑받을 수 있다는 것을 거부한 제인의 선택이, 지금도 울림을 줍니다."
+  },
+  {
+    "id": "094", "title": "상록수", "author": "심훈", "country": "한국", "era": "근대", "category": "한국문학", "year": 1935,
+    "tags": { "elements": ["wood", "fire"], "ten_gods": ["정관", "비견"], "mood": ["계몽", "농촌", "이상", "청춘"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["서정적", "역사적"],
+    "description": "농촌 계몽을 위해 헌신하는 두 청춘의 이야기.",
+    "literaryInterpretation": "이상을 향해 자신을 태울 수 있었던 시대의 청춘이 얼마나 아름답고 슬픈지."
+  },
+  {
+    "id": "095", "title": "빼앗긴 자들", "originalTitle": "The Dispossessed", "author": "어슐러 르 귄", "country": "미국", "era": "현대", "category": "세계문학", "year": 1974,
+    "tags": { "elements": ["water", "wood"], "ten_gods": ["비견", "정관"], "mood": ["SF", "유토피아", "자유", "공동체"] },
+    "difficulty": "어려움", "energy": "생동감", "atmosphere": ["SF", "철학적"],
+    "description": "두 행성의 대조를 통해 자유와 소유의 의미를 탐구.",
+    "literaryInterpretation": "소유 없는 삶이 더 자유로울 수 있다는 것을, 르 귄이 다른 행성에서 실험합니다."
+  },
+  {
+    "id": "096", "title": "무기여 잘 있거라", "originalTitle": "A Farewell to Arms", "author": "어니스트 헤밍웨이", "country": "미국", "era": "현대", "category": "세계문학", "year": 1929,
+    "tags": { "elements": ["water", "fire"], "ten_gods": ["정재", "비견"], "mood": ["전쟁", "사랑", "상실", "허무"] },
+    "difficulty": "중간", "energy": "쓸쓸함", "atmosphere": ["비극적", "서정적"],
+    "description": "전쟁터에서 피어난 사랑과 상실의 이야기.",
+    "literaryInterpretation": "전쟁은 모든 아름다운 것을 앗아간다는 것을, 헤밍웨이의 짧은 문장들이 조용히 말합니다."
+  },
+  {
+    "id": "097", "title": "그 여자네 집", "author": "박완서", "country": "한국", "era": "현대", "category": "한국문학", "year": 1999,
+    "tags": { "elements": ["earth", "water"], "ten_gods": ["정재", "식신"], "mood": ["일상", "여성", "관계", "따뜻함"] },
+    "difficulty": "쉬움", "energy": "따뜻함", "atmosphere": ["서정적", "인간적"],
+    "description": "평범한 여성들의 삶과 관계를 따뜻하게 그린 단편들.",
+    "literaryInterpretation": "특별하지 않은 삶이 얼마나 풍요로운지를, 박완서만의 언어로 보여줍니다."
+  },
+  {
+    "id": "098", "title": "인간의 굴레", "originalTitle": "Of Human Bondage", "author": "서머싯 몸", "country": "영국", "era": "현대", "category": "세계문학", "year": 1915,
+    "tags": { "elements": ["water", "fire"], "ten_gods": ["편재", "상관"], "mood": ["성장", "집착", "자유", "의미"] },
+    "difficulty": "어려움", "energy": "묵직함", "atmosphere": ["사실주의", "성장"],
+    "description": "한 남자의 삶을 통해 인간 존재의 의미와 자유를 탐구한 대작.",
+    "literaryInterpretation": "의미를 찾으려는 집착 자체가 때로는 굴레가 됨을, 이 책이 오랜 여정으로 보여줍니다."
+  },
+  {
+    "id": "099", "title": "전쟁과 평화", "originalTitle": "Voina i mir", "author": "레프 톨스토이", "country": "러시아", "era": "고전", "category": "세계문학", "year": 1869,
+    "tags": { "elements": ["fire", "earth"], "ten_gods": ["정관", "편재"], "mood": ["역사", "성장", "인간", "전쟁"] },
+    "difficulty": "매우어려움", "energy": "장엄함", "atmosphere": ["장대한", "역사적"],
+    "description": "나폴레옹 전쟁을 배경으로 한 러시아 귀족들의 삶과 성장.",
+    "literaryInterpretation": "역사의 거대한 흐름 속에서도 개인의 삶은 그 자체로 완결된 서사임을 이 책이 보여줍니다."
+  },
+  {
+    "id": "100", "title": "나는 고양이로소이다", "originalTitle": "Wagahai wa Neko de aru", "author": "나쓰메 소세키", "country": "일본", "era": "근대", "category": "세계문학", "year": 1906,
+    "tags": { "elements": ["water", "metal"], "ten_gods": ["상관", "편인"], "mood": ["풍자", "관찰", "근대", "지식인"] },
+    "difficulty": "중간", "energy": "블랙코미디", "atmosphere": ["풍자적", "유머러스"],
+    "description": "고양이의 시선으로 바라본 메이지 시대 일본 지식인 사회.",
+    "literaryInterpretation": "외부의 시선이 얼마나 많은 것을 꿰뚫어 보는지, 고양이를 통해 소세키가 보여줍니다."
+  },
+  {
+    "id": "101", "title": "장미의 이름", "originalTitle": "Il nome della rosa", "author": "움베르토 에코", "country": "이탈리아", "era": "현대", "category": "세계문학", "year": 1980,
+    "tags": { "elements": ["metal", "earth"], "ten_gods": ["정인", "정관"], "mood": ["미스터리", "중세", "지식", "진실"] },
+    "difficulty": "어려움", "energy": "지적", "atmosphere": ["미스터리", "역사적"],
+    "description": "중세 수도원의 연쇄 살인과 금서에 얽힌 미스터리.",
+    "literaryInterpretation": "지식이 권력이 될 때 얼마나 위험해지는지를, 이 책이 중세의 언어로 보여줍니다."
+  },
+  {
+    "id": "102", "title": "어느 겨울밤 한 여행자가", "originalTitle": "Se una notte d'inverno un viaggiatore", "author": "이탈로 칼비노", "country": "이탈리아", "era": "현대", "category": "세계문학", "year": 1979,
+    "tags": { "elements": ["metal", "water"], "ten_gods": ["편인", "상관"], "mood": ["메타픽션", "독자", "이야기", "탐색"] },
+    "difficulty": "어려움", "energy": "현기증", "atmosphere": ["메타픽션", "실험적"],
+    "description": "독자를 2인칭으로 부르며 이야기 안으로 끌어들이는 소설.",
+    "literaryInterpretation": "책을 읽는다는 행위 자체가 하나의 여행임을 이 책이 직접 경험하게 합니다."
+  },
+  {
+    "id": "103", "title": "백석 시집", "author": "백석", "country": "한국", "era": "근대", "category": "한국문학", "year": 1936,
+    "tags": { "elements": ["wood", "water"], "ten_gods": ["식신", "편인"], "mood": ["향수", "자연", "서정", "고향"] },
+    "difficulty": "중간", "energy": "따뜻함", "atmosphere": ["시적", "향토적"],
+    "description": "북방 고향의 풍경과 음식, 사람을 담은 서정시집.",
+    "literaryInterpretation": "사라진 것들이 언어 속에 살아남을 수 있다는 것을, 백석이 시로 증명합니다."
+  },
+  {
+    "id": "104", "title": "삼체", "originalTitle": "三体", "author": "류츠신", "country": "중국", "era": "현대", "category": "세계문학", "year": 2008,
+    "tags": { "elements": ["metal", "fire"], "ten_gods": ["편관", "정인"], "mood": ["SF", "우주", "문명", "생존"] },
+    "difficulty": "어려움", "energy": "장엄함", "atmosphere": ["SF", "철학적"],
+    "description": "우주적 시간 속에서 인류 문명의 생존을 탐구하는 SF 대작.",
+    "literaryInterpretation": "우주의 크기 앞에서 인간의 역사가 얼마나 작은지를, 이 책이 장대하게 보여줍니다."
+  },
+  {
+    "id": "105", "title": "이청준 단편선", "author": "이청준", "country": "한국", "era": "현대", "category": "한국문학", "year": 1970,
+    "tags": { "elements": ["water", "metal"], "ten_gods": ["편인", "상관"], "mood": ["언어", "예술", "실존", "상실"] },
+    "difficulty": "어려움", "energy": "서늘함", "atmosphere": ["지적", "실험적"],
+    "description": "언어와 존재, 예술의 의미를 탐구하는 단편들.",
+    "literaryInterpretation": "말로 표현할 수 없는 것이 오히려 가장 중요한 것임을, 이청준이 언어로 말합니다."
+  }
+]
