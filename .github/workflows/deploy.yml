@@ -15,7 +15,6 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    # 배포 커밋이 다시 워크플로를 트리거하지 않도록
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
 
     steps:
@@ -38,15 +37,37 @@ jobs:
           NEXT_EXPORT: "true"
           NEXT_PUBLIC_BASE_PATH: /yourBook
 
+      # ─────────────────────────────────────────────────────────────
+      # Jekyll은 _ 로 시작하는 폴더를 무시한다 → _next/ 가 통째로 사라짐
+      # → CSS/JS 404 → 흰 화면 문제
+      # 해결: _next/ 를 next_static/ 으로 이름 변경 후 참조 전체 교체
+      # ─────────────────────────────────────────────────────────────
+      - name: Rename _next → next_static (fix Jekyll _ exclusion)
+        run: |
+          cd out
+
+          # 디렉터리 이름 변경
+          mv _next next_static
+          mv _not-found not-found 2>/dev/null || true
+
+          # HTML / JS / CSS / JSON 내 모든 경로 참조 교체
+          find . -type f \( -name "*.html" -o -name "*.js" -o -name "*.css" -o -name "*.json" -o -name "*.txt" \) \
+            -exec sed -i \
+              -e 's|/yourBook/_next/|/yourBook/next_static/|g' \
+              -e 's|"/_next/|"/next_static/|g' \
+              -e 's|'"'"'/_next/'"'"'|'"'"'/next_static/'"'"'|g' \
+              -e 's|/_not-found/|/not-found/|g' \
+            {} \;
+
+          cd ..
+
       - name: Deploy to root
         run: |
-          # 이전 docs/ 방식 잔재 제거
-          git rm -rf docs/ 2>/dev/null || true
+          git rm -rf docs/     2>/dev/null || true
+          git rm -rf _next/    2>/dev/null || true
+          git rm -rf next_static/ 2>/dev/null || true
 
-          # 빌드 결과물을 레포 루트에 복사
           cp -r out/. .
-
-          # Jekyll 처리 방지 (Next.js 에셋이 깨지지 않도록)
           touch .nojekyll
 
           git config user.name  "github-actions[bot]"
